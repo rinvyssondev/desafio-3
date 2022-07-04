@@ -2,7 +2,7 @@
 
 
 source libs/functions_deps.sh
-source libs/variavel.sh
+source libs/app.sh
 
 
 # ------------------------------- TESTES ----------------------------------------- #
